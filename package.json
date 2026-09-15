@@ -1,0 +1,16 @@
+{
+  "name": "multi-vendor-order-api",
+  "version": "1.0.0",
+  "description": "Multi-Vendor Order API & Cart Splitter - REST API for multi-store checkout with order splitting.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "express": "^5.2.1"
+  }
+}
